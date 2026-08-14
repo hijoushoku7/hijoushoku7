@@ -5,20 +5,6 @@ If you are interested to my profile, go see https://hijoushoku.com/
 
 ## My GitHub Stats
 
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hijoushoku7/hijoushoku7/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hijoushoku7/hijoushoku7/output-3d-contrib/day.svg" />
-  </picture>
-</p>
-
 <p align="left" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
@@ -27,11 +13,10 @@ If you are interested to my profile, go see https://hijoushoku.com/
 	</picture>
 </p>　
 
+## My GitHub Metrics
+
 <p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/hijoushoku7/hijoushoku7/output-3d-contrib/day.svg" />
-  </picture>
+	<img alt="github metrics" src="output/metrics.svg" width="700" />
 </p>
+
 
